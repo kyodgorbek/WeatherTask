@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherTask</string>
+    <string name="validate">Validate</string>
+    <string name="where">Where ?</string>
+    <string name="when">When ?</string>
+    <string name="select_city">Please select an city</string>
+    <string name="no_internet">No internet</string>
+    <string name="internal_error">Internal server error</string>
+    <string name="unknown_error">Oups.. something is wrong !</string>
+    <string name="wrong_location">Wrong location</string>
+
+</resources>
